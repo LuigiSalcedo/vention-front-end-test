@@ -19,7 +19,8 @@ function getFlowers() {
     return [
         new Flower(1, 'Blue Flower', 80.00, 4, "/assets/blue-flower.png"),
         new Flower(2, 'Orange Flower', 17.60, 3, "/assets/orange-flower.png"),
-        new Flower(3, 'Pink Flower', 40.00, 5, "/assets/pink-flower.png")
+        new Flower(3, 'Pink Flower', 40.00, 5, "/assets/pink-flower.png"),
+        // new Flower(4, 'Red Flower', 30.00, 4, "/assets/red-flower.png"),
     ];
 }
 
